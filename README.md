@@ -2,6 +2,11 @@
 ![image](https://cdn.vox-cdn.com/thumbor/Vs6RmfJngOCU42dRLJ6KSrEZ4oI=/1400x1050/filters:format(jpeg)/cdn.vox-cdn.com/uploads/chorus_asset/file/19729942/30291547348_e0d98e58fd_k.0_2.0.jpg)
 
 
+
+
+
+
+
 In this analysis, we aim to uncover the citi bike performance in 2021 (Panamic period), identifying business opportunity. There are three dashboards with one overview map containing the population infomation in this analysis.
 
 ## General introduction of Citibike :bike:
@@ -19,6 +24,6 @@ In this analysis, we aim to uncover the citi bike performance in 2021 (Panamic p
 * The most popular stations like Grove St Path, Columbus Dr at Exchange PI, New port path, Marin light rail are all close to train station, which has also proved that our conclusion on "the increasing demand on peak hours was due to communting" is correct. 
 
 
-## Deep Dive (Gender, Age, Subsciption)
+## Deep Dive (Gender, Age, Subsciption) :girl::boy::woman::man::older_woman::older_man:
 
 * 
