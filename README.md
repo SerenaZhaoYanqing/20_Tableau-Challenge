@@ -26,4 +26,14 @@ In this analysis, we aim to uncover the citi bike performance in 2021 (Panamic p
 
 ## Deep Dive (Gender, Age, Subsciption) :girl::boy::woman::man::older_woman::older_man:
 
-* 
+* Based on the analysis, excluding unknown data, we have more male customers than male customer
+* As per age group, people aged less than 20 years and people between 50-60 years old averagely spend the most time on each trip, (51 minutes and 45 minutes repectively), however, those two ago group has the less percentage customer that are subscripting to our services ( 27.91% and 36.90% repectively)
+* With average trip duration, despite the fact that we have more male customers, most age group, female customer spend more time on each trip. 
+
+**Conculsion** As per above results, the main area to develop for the company will be: 
+1. Attracting more female customer  ( research on if the bike type is more sutiable for male rather than female, or generally riding bicycle is more popular among male customers etc) 
+2. Engage young customer (<20 years) and old customers (50-60 years) to subscribe our services. ( demostrating to customer that as per the long ride that they normally do, it would save customers more money if they subscribe) 
+
+
+## Overview Map 
+* Finally, we have the distribution of all bike stations layered with population of each postcode. 
